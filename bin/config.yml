@@ -1,0 +1,5 @@
+is-enabled: true
+global-life: 400
+global-radius: 6
+global-degrade: 1
+allowed-worlds:

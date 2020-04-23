@@ -1,0 +1,12 @@
+main: sith.me.lightsout.Main
+name: LightsOut
+version: 1
+api-version: 1.13
+author: SithLee
+commands:
+  loadd:
+  loremove:
+  lotoggle:
+  lolife:
+  loradius:
+  lodegrade:
